@@ -17,3 +17,5 @@ Projeto criado para a Santander Dev Week Fullstack - DIO / Santander
  - POST - envia um novo stock
  - PUT - atualiza algum ja existente
  - DELETE - exclui pelo ID
+
+### <br />Swagger da API - [Heroku deploy](http://santander-dev-week-api.herokuapp.com/devweek/swagger-ui/index.html?configUrl=/devweek/v3/api-docs/swagger-config)
