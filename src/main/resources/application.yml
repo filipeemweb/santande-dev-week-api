@@ -18,4 +18,4 @@ spring:
 
 application:
   description: Projeto criado para a Santander Dev Week Fullstack - DIO / Santander
-  version: 1.0
+  version: 2.0
